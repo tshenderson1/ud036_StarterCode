@@ -1,4 +1,4 @@
-import movie
+import media
 import urllib
 import fresh_tomatoes
 
