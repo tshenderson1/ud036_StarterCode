@@ -1,5 +1,13 @@
 import webbrowser
 
+#################################################
+#  Created by T Henderson using instructions
+#  from udacity full stack web course
+#  for Movie Trailer Project
+#  submitted 5/20/2018
+#
+#################################################
+
 class Movie():
     """This class provides a means of storing movie object in a single object space"""
 

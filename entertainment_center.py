@@ -2,6 +2,15 @@ import media
 import urllib
 import fresh_tomatoes
 
+####################################################
+#
+#  Created by T Henderson using instructions
+#  from udacity full stack web course
+#  for Movie Trailer Project
+#  submitted 5/20/2018
+#
+####################################################
+
 #create several instances of class media.Movie
 toyStory = media.Movie(
         "Toy Story",
